@@ -2,7 +2,7 @@
 Data recovery solutions
 Feel free to contribute
 
-Excel files contains a matrix of a few solutions we tested. Rest is working progress.
+Excel files contains a matrix of a few solutions we tested. Rest is working progress. Coments in the excel file are in Spanish.
 
 https://drive.google.com/open?id=1HdPs7qGkF9EbjrkU9iuN2_N87D3rT1apT4g7Xowc220
 

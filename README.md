@@ -1,6 +1,7 @@
 # awesome-datarecovery
 Data recovery solutions
 Feel free to contribute
+Mantenido por Vortex Dimension Digital
 
 Excel files contains a matrix of a few solutions we tested. Rest is working progress. Coments in the excel file are in Spanish.
 
